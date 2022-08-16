@@ -71,5 +71,6 @@ class RegisterController extends Controller
             'position_title' => $data['position_title'],
             'password' => $data['password'],
         ]);
+        
     }
 }
